@@ -1,0 +1,11 @@
+<thml>
+  <head> 
+<meta lang="ru">
+<title>Сайт</title>
+  </head>
+    <body>
+<h1> Привет!</h1>
+<p> Здесь есть котик :) </p>
+<img src="image.jpg">
+    </body>
+ </html>
